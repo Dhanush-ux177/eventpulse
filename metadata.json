@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse - Event Booking Platform",
+  "description": "A modern and responsive event booking platform to discover upcoming concerts, tech conferences, workshops, and festivals with live ticket booking and organizer management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
